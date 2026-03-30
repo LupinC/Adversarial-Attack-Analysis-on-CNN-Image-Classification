@@ -8,7 +8,7 @@ A research project exploring the effectiveness of physical adversarial attack st
 - Jinghan Sun (jinghan.sun@emory.edu)
 
 ## Project Overview
-This project investigates how different physical adversarial attack strategies affect CNN performance in image classification tasks. We focus on:
+This project investigates how different physical adversarial attack strategies affect resNet and transformer performance in image classification tasks. We focus on:
 
 - Developing a CNN model for classifying images from the CIFAR-10 dataset
 - Implementing and analyzing various adversarial patterns
